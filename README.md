@@ -3,4 +3,4 @@ An implementation of the Minesweeper game in Java using Swing GUI.
 
 ### App Walkthough GIF
 
-<img src="MinesweeperGIF.gif" width=25% height=25%><br>
+<img src="MinesweeperGIF.gif" width=100% height=100%><br>
